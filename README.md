@@ -1,2 +1,2 @@
 # SWTCalculadora
-Calculadora realizada en WindowBuilder
+Calculadora realizada con WindowBuilder
